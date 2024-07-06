@@ -1,6 +1,6 @@
 # Terms of Service
 ## Introduction
-These Terms of Service ("Terms") govern your use of the fakejuniorcrp bot ("Bot") and its services. By using the Bot, you agree to be bound by these Terms and the [privacy policy](../privacy-policy).
+These Terms of Service ("Terms") govern your use of the fakejuniorcrp bot ("Bot") and its services. By using the Bot, you agree to be bound by these Terms and the [privacy policy](privacy-policy).
 ## Definitions
 - "We" and "us" refer to the owner and operator of the Bot, mrtbts.
 - "You" and "user" refer to the individual using the Bot.
@@ -26,7 +26,7 @@ These Terms will be governed by and construed in accordance with the laws of Tha
 ## Termination
 You may terminate your use of the Bot at any time. Upon termination, you will no longer have access to the Bot's services. We may terminate your use of the Bot at any time, with or without cause, and without notice.
 ## Data Privacy
-We collect and store your personal information according to our [privacy policy](../privacy-policy). We do not share your information with any third parties.
+We collect and store your personal information according to our [privacy policy](privacy-policy). We do not share your information with any third parties.
 ## Changes to Terms
 We reserve the right to modify or update these Terms at any time without notice. Your continued use of the Bot after any changes to these Terms will constitute your acceptance of the revised Terms.
 ## Affiliation with discord
