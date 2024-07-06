@@ -35,7 +35,7 @@ You have the right to:
 ## Changes to this policy
 We may update this privacy policy from time to time. We will notify you of any changes by posting the updated policy on this page.
 ## Affiliation with discord
-The Bot is a third-party bot that operates on the Discord platform. We are not affiliated with Discord, Inc. and are not responsible for the actions or policies of Discord. By using the Bot, you acknowledge that you have read, understood, and agree to Discord's terms of service and privacy policy, which can be found [here](https://discord.com/privacy)
+The Bot is a third-party bot that operates on the Discord platform. We are not affiliated with Discord, Inc. and are not responsible for the actions or policies of Discord. By using the Bot, you acknowledge that you have read, understood, and agree to Discord's [terms of service](https://discord.com/terms) and [privacy policy](https://discord.com/privacy).
 ## Contact us
 If you have any questions or want to request access to your data, please contact the Bot owner via the [support server](https://discord.gg/KAPpUZN7gY), discord direct message (username mrtbts) or [email mrtbtsjtohbot@gmail.com](mailto:mrtbtsjtohbot@gmail.com).
 ## GDPR Compliance
