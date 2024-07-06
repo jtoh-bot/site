@@ -8,21 +8,25 @@ The Bot collects the following information
 - Your roblox userid (if you used the account link command)
 - Your score
 - Your settings and configuration
+
 ## How do we collect your information?
 - discord userid is automatically collected when you run a command to make the Bot work
 - roblox userid is collected when you use the account link command
 - your score is collected when you first run any of the guessing games (commands that starts with guess)
 - your settings and configuration are collected when you run any setting commands (commands that start with set)
+
 ## How do we use your information?
 Your information is used to
 - Respond to your interactions with the Bot
 - Provide ease when interacting with the Bot
+
 ## How do we store and protect your information?
 We store your information securely on a local computer not connected directly to the internet to protect it from unauthorized access. We do not share your information with any third-party including discord.
 ## How long do we keep your information?
 We keep your information as long as you use the Bot. We will remove your information if
 - You haven't used the Bot for at least 1 year
 - You requested us to delete your information
+
 Information removed are completely erased permanently and not recoverable
 ## Your rights
 You have the right to:
@@ -32,6 +36,7 @@ You have the right to:
 - Request restricting processing of your information
 - Request stopping processing of your information
 - Request to transfer your data to to another organization, or directly to you.
+
 ## Changes to this policy
 We may update this privacy policy from time to time. We will notify you of any changes by posting the updated policy on this page.
 ## Affiliation with discord

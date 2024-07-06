@@ -4,6 +4,7 @@ These Terms of Service ("Terms") govern your use of the fakejuniorcrp bot ("Bot"
 ## Definitions
 - "We" and "us" refer to the owner and operator of the Bot, mrtbts.
 - "You" and "user" refer to the individual using the Bot.
+
 ## Acceptance of Terms
 By using the Bot, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Bot.
 ## Eligibility
@@ -15,6 +16,7 @@ You agree to use the Bot in a responsible and lawful manner. You will not:
 - Infringe on the rights of others, including intellectual property rights
 - Use the Bot to harass, abuse, or harm others
 - Use the Bot to transmit or distribute spam or unsolicited messages
+
 ## Intellectual Property
 The Bot and its services are protected by intellectual property laws. You agree not to reproduce, modify, display, sell, or distribute the Bot or its services without our prior written consent.
 ## Warranty Disclaimer
